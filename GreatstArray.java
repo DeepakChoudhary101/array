@@ -10,8 +10,7 @@ class GreatestArray
             {
                 s=a[i];
             }
-            
-        }
+         }
         System.out.println("graetest no is"+s);
     }
 }
