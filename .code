@@ -1,0 +1,16 @@
+class GreatstArray
+{
+    public static void main(String args[])
+    {
+        int a[]={2,3,4,5,6,7};
+        s=0;
+        for(int i=o;i<a.legth;i++)
+        {
+            if(a[i]>s)
+            {
+                sum+=a[i];
+            }
+        }
+        System.out.println("gratest no is"+s);
+    }
+}
