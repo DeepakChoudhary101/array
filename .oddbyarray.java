@@ -1,4 +1,4 @@
-class EvenByArray
+class OddByArray
 {
     public static void main(String args[])
     {
